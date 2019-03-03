@@ -1,1 +1,1 @@
-# There are a hometasks of lesson 1.
+# There are hometasks of Dmytro Pushka.

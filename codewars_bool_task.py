@@ -3,4 +3,3 @@ def bool_to_word(boolean):
         return "Yes"
     else:
         return "No"
-    return
